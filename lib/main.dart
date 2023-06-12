@@ -47,32 +47,32 @@ class HomeActivity extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               ListTile(
-                  leading: Icon(Icons.shopping_bag),
+                  leading: Icon(Icons.shopping_basket),
                   title: Text("Apples"),
                   onTap: () {
 
                   }),
               ListTile(
-                leading: Icon(Icons.shopping_bag),
+                leading: Icon(Icons.shopping_basket),
                 title: Text("Bananas"),
                 onTap: () {
 
                 },
               ),
               ListTile(
-                leading: Icon(Icons.shopping_bag),
+                leading: Icon(Icons.shopping_basket),
                 title: Text("Bread"),
                 onTap: () {
                 },
               ),
               ListTile(
-                  leading: Icon(Icons.shopping_bag),
+                  leading: Icon(Icons.shopping_basket),
                   title: Text("Milk"),
                   onTap: () {
 
                   }),
               ListTile(
-                  leading: Icon(Icons.shopping_bag),
+                  leading: Icon(Icons.shopping_basket),
                   title: Text("Eggs"),
                   onTap: () {
 
